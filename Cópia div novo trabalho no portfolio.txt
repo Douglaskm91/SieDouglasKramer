@@ -1,11 +1,11 @@
-<div>
-	<h3></h3>
-		<div style="background-image: url('img/ccb.jpg')" class="miniatura">
-							<a href="trabalho02.html">
+<div class="col-sm-4">
+						<h3></h3>
+						<div style="background-image: url('/img')" class="miniatura">
+							<a href=".html">
 								<div class="blackbox">
 									<div class="blackbox-text">
-										<h1>Teste2</h1>
-										<h2>Teste2</h2>
+										<h1></h1>
+										<h2></h2>
 									</div>
 								</div>
 							</a>
